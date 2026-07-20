@@ -17,7 +17,7 @@ int main(){
     std::cout << "target: " << target_x << std::endl;
     std::cout << "sprite: " << sprite_x << std::endl;
     std::cout << "player: " << static_cast<int32_t>(player_x) << std::endl;
-
+    
     std::cout << std::endl << std::endl;
     return 0;
 }
