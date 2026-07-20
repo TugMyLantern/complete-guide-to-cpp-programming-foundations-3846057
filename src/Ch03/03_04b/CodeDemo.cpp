@@ -24,5 +24,6 @@ int main(){
     std::cout << "Lives using prefix decrement: " << player_lives << std::endl;
 
     std::cout << std::endl << std::endl;
+
     return 0;
 }
